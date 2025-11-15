@@ -71,7 +71,11 @@ Revenue contribution by age group
 
 An interactive dashboard was created in Power BI to visualize: 
 ## 🎥 Dashboard Interaction Demo
-https://github.com/YogaSelvakumar/Customer-Shopping-Behavior-Analysis/blob/main/Video%20Project%201.mp4
+<video width="100%" controls>
+  <source src="https://github.com/YogaSelvakumar/Customer-Shopping-Behavior-Analysis/raw/refs/heads/main/Video%20Project%201.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 KPIs: Total customers, Avg Purchase Amount, Avg Review Rating
