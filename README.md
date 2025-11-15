@@ -13,11 +13,9 @@ to uncover insights on customer spending, product performance, and shopping beha
 
 ---
 
+
 ## 🎥 Dashboard Interaction Demo
-<video width="100%" controls>
-  <source src="https://private-user-images.githubusercontent.com/238478036/514774390-e8c30054-c6e4-49e0-8567-3c1aa1a205bb.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://private-user-images.githubusercontent.com/238478036/514774390-e8c30054-c6e4-49e0-8567-3c1aa1a205bb.mp4
 
 ---
 
@@ -85,7 +83,7 @@ The dashboard includes:
   - Shipping Type  
   - Subscription Status  
 
-📄 Power BI PBIX File: `CUSTOMER_BEHAVIOR_DASHBOARD PROJECT.pbix`
+📄 Power BI PBIX File: `CUSTOMER_BEHAVIOR_DASHBOARD PROJECT151125.pbix`
 
 ---
 
@@ -122,11 +120,15 @@ The dashboard includes:
 1. **Clone this repository**
    ```bash
    git clone https://github.com/YogaSelvakumar/Customer-Shopping-Behavior-Analysis.git
+
 2. **Open the Python notebook**
     Perform data cleaning & EDA
+
 3.**Run SQL queries**
     Use MySQL / SQL Server to answer business questions
+
 4.**Open the Power BI file (.pbix)**
     Explore dashboard & slicers
+
 5.**Check the PPT**
 For a complete walkthrough and presentation highlights
