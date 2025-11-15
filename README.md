@@ -1,4 +1,6 @@
-# Customer Behavior Dashboard
+# Customer Behavior Dashboard 
+## 🎥 Dashboard Interaction Demo
+https://private-user-images.githubusercontent.com/238478036/514774390-e8c30054-c6e4-49e0-8567-3c1aa1a205bb.mp4
 
 
 📍 Project Overview
@@ -70,13 +72,6 @@ Revenue contribution by age group
 📊 Power BI Dashboard
 
 An interactive dashboard was created in Power BI to visualize: 
-## 🎥 Dashboard Interaction Demo
-<video width="100%" controls>
-  <source src="https://github.com/YogaSelvakumar/Customer-Shopping-Behavior-Analysis/raw/refs/heads/main/Video%20Project%201.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
 
 KPIs: Total customers, Avg Purchase Amount, Avg Review Rating
 
